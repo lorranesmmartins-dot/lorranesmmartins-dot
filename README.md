@@ -1,42 +1,47 @@
 ![Banner do perfil](./banner.png) 
 # LORRANE MARTINS
 
-### Inteligência Artificial • Automação • Eficiência Operacional
+### Inteligência Artificial • Automação • Desenvolvimento de Soluções Digitais
 
-Transformando processos administrativos e financeiros em soluções digitais mais inteligentes.
+Criando soluções digitais que conectam tecnologia, inteligência artificial e automação para resolver problemas reais.
 
 ---
 
-## 📚 Sobre mim
+## 📚 SOBRE MIM
 
 Tenho interesse em Inteligência Artificial, automação de processos e desenvolvimento de soluções digitais.
 
 Minha trajetória reúne experiências nas áreas de Marketing, Procurement e Financeiro, que despertaram meu interesse em utilizar tecnologia para organizar informações, otimizar rotinas e apoiar decisões.
 
-Atualmente, desenvolvo projetos práticos que conectam IA, automação e operações administrativas e financeiras.
+Atualmente, desenvolvo projetos práticos que conectam tecnologia a diferentes necessidades e contextos.
 
----
+## 🚀 PROJETOS EM DESTAQUE
 
-## 🚀 AI FINANCE HUB
+Projetos práticos que desenvolvo para explorar tecnologia, inteligência artificial, automação e soluções digitais.
 
-**Um ecossistema de soluções inteligentes para processos financeiros.**
+### 📊 AI Finance Hub
 
-### 📊 AI Organize
+Ecossistema de soluções inteligentes voltado à organização, automação e análise de processos financeiros.
+
+#### 📊 AI Organize
+
 Sistema inteligente de organização e controle de pagamentos a fornecedores, com extração de notas fiscais por IA, validação de dados e auditoria financeira.
 
 [→ Explorar o AI Organize](https://github.com/lorranesmmartins-dot/ai-organize)
 
-### 🔄 AI Flow
+#### 🔄 AI Flow
+
 Automação desenvolvida com n8n e Gemini para processamento de notas fiscais, validação de informações e monitoramento de vencimentos.
 
 [→ Explorar o AI Flow](https://github.com/lorranesmmartins-dot/ai-flow)
 
-### 🧠 AI Insights
+#### 🧠 AI Insights
+
 Módulo integrado ao AI Organize, voltado à análise financeira, identificação de inconsistências, indicadores e consultas em linguagem natural.
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ TECNOLOGIAS E FERRAMENTAS
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -46,7 +51,7 @@ Módulo integrado ao AI Organize, voltado à análise financeira, identificaçã
 
 ---
 
-## 🎯 Áreas de interesse
+## 🎯 ÁREAS DE INTERESSE
 
 - Inteligência Artificial aplicada a negócios
 - Automação de processos
