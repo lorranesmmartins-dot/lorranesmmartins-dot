@@ -1,3 +1,4 @@
+![Banner do perfil](./banner.png) 
 # LORRANE MARTINS
 
 ### Inteligência Artificial • Automação • Eficiência Operacional
