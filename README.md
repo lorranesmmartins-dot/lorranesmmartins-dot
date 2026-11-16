@@ -38,7 +38,9 @@ Automação desenvolvida com n8n e Gemini para processamento de notas fiscais, v
 
 #### 🧠 AI Insights
 
-Módulo integrado ao AI Organize, voltado à análise financeira, identificação de inconsistências, indicadores e consultas em linguagem natural.
+Módulo integrado ao AI Organize, desenvolvido para análise financeira, identificação de inconsistências, acompanhamento de indicadores e consultas em linguagem natural.
+
+[→ Conhecer o AI Organize e o módulo AI Insights](https://github.com/lorranesmmartins-dot/ai-organize)
 
 ---
 
