@@ -1,4 +1,3 @@
-![Banner do perfil](./banner.png) 
 # LORRANE MARTINS
 
 ### Inteligência Artificial • Automação • Desenvolvimento de Soluções Digitais
